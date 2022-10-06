@@ -130,14 +130,11 @@ nav ul li {
 
 .sec {
     height: 600px;
+    padding: 15%;
 }
 
 .section201 {
     background-image: url("https://cdn.pixabay.com/photo/2013/07/12/14/07/basketball-147794__340.png"), linear-gradient(90deg, rgba(14,13,13,0) 0%, rgba(11,11,69,1) 14%, rgba(9,9,121,1) 27%, rgba(141,8,15,1) 100%, rgba(0,212,255,1) 100%);
-}
-
-.section202 {
-    padding: 15%;
 }
 
 .sec2h1 {
@@ -148,4 +145,63 @@ nav ul li {
     font-family: 'Inter Tight', sans-serif;
     color: #aaa8a5;
     font-size: 18px;
+}
+
+.section204 {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSMyOo4j42_YKz1gI_RKOPAenTCg3lXbCwhA&usqp=CAU");
+}
+
+.section205 {
+    background-image: url("https://www.mckinsey.com/~/media/mckinsey/featured%20insights/mckinsey%20books/author%20talks%20how%20industrial%20technology%20is%20creating%20a%20more%20inclusive%20economy/cover%20-%20titanium%20economy_50-50-w.jpg?mw=768&car=16:9");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.section206 {
+    background-color: rgb(2,8,11);
+    color: #fff;
+}
+
+.blogIntro {
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+.blogIntro p{
+    align-self: center;
+}
+
+.blogs {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.sec2 {
+    height: 400px;
+}
+
+.sec001 {
+    background-image: url("https://images.squarespace-cdn.com/content/v1/62feb7a69c66ec0672f20461/1660861763868-NH6V11O3ULQJDOBOQN5L/Montevideo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.itemsContainer {
+    width: 100%;
+    display: flex;
+}
+
+.secsPr {
+    height: 200px;
+    width: 50%;
+}
+
+.sec0021 {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdqwG8dbH4-RbYuyng-PE2nL0cgBXKelWY3A&usqp=CAU");
+}
+
+.sec0022 {
+    padding: 10%;
 }
